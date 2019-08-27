@@ -1,0 +1,8 @@
+site_name: FlashBase Documents
+nav:
+  - Introduction: introduction.md
+  - Getting Started: getting-started.md
+  - Interfaces: interfaces.md
+  - SQL References: sql-references.md
+  - Operations: operations.md
+theme: readthedocs
